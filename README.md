@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Marvelmaran
+- 👋 Hi, I’m @maran
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on .. 
